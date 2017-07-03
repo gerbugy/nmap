@@ -1,4 +1,4 @@
-package kr.pistachio.nmap;
+package kr.pistachio.nmap.nmap;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -15,6 +15,8 @@ import android.widget.ListView;
 import com.nhn.android.maps.NMapOverlayItem;
 import com.nhn.android.maps.overlay.NMapPOIitem;
 import com.nhn.android.mapviewer.overlay.NMapResourceProvider;
+
+import kr.pistachio.nmap.R;
 
 public class NMapViewerResourceProvider extends NMapResourceProvider implements NMapCalloutCustomOldOverlay.ResourceProvider {
 

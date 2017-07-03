@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Naver Map Sample</string>
+    <string name="location1">파리바게트</string>
+    <string name="location2">약국</string>
 </resources>

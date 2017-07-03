@@ -1,4 +1,4 @@
-package kr.pistachio.nmap;
+package kr.pistachio.nmap.nmap;
 
 public class NMapPOIflagType {
 	public static final int UNKNOWN = 0x0000;
